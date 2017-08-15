@@ -1,4 +1,4 @@
 function hello(str) {
   console.log(str);
 }
-hello("Hello World");
+hello("Testing git commit");
